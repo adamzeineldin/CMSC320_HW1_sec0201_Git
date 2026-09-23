@@ -5,3 +5,7 @@ Answer: Git would be used to collaborate with others on coding and other types o
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to almost every field. It is used to see how a current field is progressing and can be used with computer science to make machine learning models that accomplish certain tasks and make predictions.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines two branches together and keeps the original commit history. Rebasing moves your commits on top of another branch.
