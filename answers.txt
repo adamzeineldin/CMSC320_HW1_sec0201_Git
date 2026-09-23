@@ -9,3 +9,7 @@ Answer: Data science can be applied to almost every field. It is used to see how
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines two branches together and keeps the original commit history. Rebasing moves your commits on top of another branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning more about data science and just how to incorporate it into machine learning with python. I'm very excited to learn more about different python libraries and how they help.
