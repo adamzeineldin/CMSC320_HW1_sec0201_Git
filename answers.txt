@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to almost every field. It is used to see how a current field is progressing and can be used with computer science to make machine learning models that accomplish certain tasks and make predictions.
